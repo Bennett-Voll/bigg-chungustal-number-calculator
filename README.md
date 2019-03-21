@@ -3,4 +3,4 @@ These numbers can be big, like really big, and multiplying is done via the bÌ¶iÌ
 
 Note, the following quirks are yet to be resolved:
 The add, subtract, multiply and multiplyBySingleDigit methods return a new instance instead of altering the current one.
-There's no consitancy in this.
+There's no consistency in this.
